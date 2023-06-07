@@ -1,4 +1,4 @@
-# MMM-Mensamuc
+# MMM-Mensamuc [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wiesty/MMM-Mensamuc/raw/master/LICENSE)
 MagicMirror² Module to display daily menu information from the canteens of the Studierendenwerk München Oberbayern as well as some other canteens. 
 
 **Data by [eat-api by TUM-DEV](https://github.com/TUM-Dev/eat-api/)**
