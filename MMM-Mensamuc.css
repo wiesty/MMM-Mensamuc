@@ -1,0 +1,18 @@
+.mensamuc-table {
+    width: 100%;
+    font-size: 0.8em;
+  }
+  
+  .mensamuc-table th,
+  .mensamuc-table td {
+    padding: 5px;
+  }
+  
+  .mensamuc-table th {
+    text-align: left;
+  }
+  
+  .mensamuc-table td {
+    border-top: 1px solid #cccccc1e;
+  }
+  
