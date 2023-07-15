@@ -28,7 +28,7 @@ The meat dish is represented by a 🍖 emoji, the vegetarian dish by a 🥕 emoj
   module: "MMM-Mensamuc",
   position: "bottom_right",
   config: {
-    canteen: "mensa-lothstr", // replace your apikey
+    canteen: "mensa-lothstr", // replace your canteen
     dishTypeFilter: ["Tagesgericht", "Aktionsessen"] //  dishTypeFilter: ["ALL"] to disable the fitler
 },
 ```
