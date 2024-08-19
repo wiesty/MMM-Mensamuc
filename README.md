@@ -62,3 +62,8 @@ Supported canteens (by [eat-api by TUM-DEV](https://github.com/TUM-Dev/eat-api/)
 | FMI Bistro Garching            | fmi-bistro                     | [Boltzmannstraße 3, Garching](https://www.google.com/maps?q=Boltzmannstraße+3,+Garching)                                    |
 | IPP Bistro Garching            | ipp-bistro                     | [Boltzmannstraße 2, Garching](https://goo.gl/maps/vYdsQhgxFvH2)                                                             |
 
+</br>
+<small>
+Note on "No menu available yet" Message
+If you see the message "No menu available yet." on your MagicMirror or in the developer console (with a log entry like "MMM-Mensamuc TUM EAT API has not added this week yet."), this is normal behavior. The menus are typically refreshed at the beginning of each week. If the menu for the current week has not been added yet, the module will display this message. It will be updated automatically as soon as the menu has been added.
+</small>
