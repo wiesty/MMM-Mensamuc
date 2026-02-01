@@ -21,7 +21,7 @@ Module.register("MMM-Mensamuc", {
 
   updateMenu: function () {
     Log.info('%cMMM-Mensamuc updating Menu... ', 'background: #222; color: #ff9f6b');
-    const weekNumber = moment().isoWeek();
+    const weekNumber = moment().format("WW");
     const year = moment().year();
     const url = `https://tum-dev.github.io/eat-api/${this.config.canteen}/${year}/${weekNumber}.json`;
 
